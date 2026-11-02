@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi there, I'm Vi Duy Đoàn!
+🎯 **Software QA / Automation Testing Intern**  
+🎓 Final-year Information Technology Student at **UTC2** (Ho Chi Minh City)
 
-<!--
-**doanpk/doanpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills & Tools
+* **Automation Testing:** Selenium WebDriver, Page Object Model (POM), C# (.NET)
+* **API & Performance Testing:** Postman, RESTful APIs, Swagger UI
+* **Security & Environment:** OWASP Juice Shop, SQL Injection Testing, Docker, VMware
+* **Development Background:** Node.js (Express), C#, Flutter, MS SQL Server, SQLite, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact Me
+* **Email:** viduydoan123123@gmail.com
+* **Location:** Thu Duc / Ho Chi Minh City, Vietnam
